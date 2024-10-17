@@ -1,3 +1,5 @@
+//This even whole code can't run properly
+
 window.botpressWebChat = {
     init: function(config) {
         // Initialization code here
